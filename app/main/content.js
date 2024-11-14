@@ -40,7 +40,7 @@ useEffect(() => {
 
   return (
     <main style={{ padding: '20px' }}>
-      <h2>Welcome, {user.displayName}!</h2>
+      <h2>Welcome, {user?.displayName || "Guest"}!</h2>
       <p>Here is your daily verse:</p>
       <BibleVerse bibleVerse={verseData}/>
     </main>

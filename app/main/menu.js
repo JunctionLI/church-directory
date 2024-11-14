@@ -14,7 +14,6 @@ function Navigation() {
     }
   }
 
-  console.dir(user);
 
   return (
     <main>
@@ -24,11 +23,7 @@ function Navigation() {
           <h1 className="text-xl font-bold ml-4">Church Directory</h1>
         </div>
         <div className="flex items-center p-2">
-          {user ? (
-            <p className="mr-2 text-sm">{user.displayName}</p>
-          ) : (
-            <p className="mr-2 text-sm">Guest</p> 
-          )}
+          <p className="mr-2 text-sm">{user?.displayName || "Guest"}</p>
           <button
             type="button"
             onClick={handleSignOut}
