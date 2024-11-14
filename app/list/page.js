@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { useEffect, useState } from "react";
-import { dbGetAllPosts } from "../_service/blog-service";
+import { dbGetAllPosts } from "../_services/blog-service";
 import { useUserAuth } from "@/app/_utils/auth-context";
 import Navigation from "../main/menu";
 import Footer from "../main/footer";
