@@ -1,0 +1,73 @@
+[
+    {
+      "name": "JOHN, Michael",
+      "address": "2711 Cedar Crescent NW",
+      "phone": "403.247-6521",
+      "email": "john@example.com",
+      "image": "/res/ad.png"
+    },
+    {
+      "name": "ALICE, Doe",
+      "address": "135 Hampton Road NW",
+      "phone": "403.101-3589",
+      "email": "alice@example.com",
+      "image": "/res/ad.png"
+    },
+    {
+      "name": "SMITH, Robert",
+      "address": "8920 Maple Street SE",
+      "phone": "403.555-1234",
+      "email": "robert.smith@example.com",
+      "image": "/res/ad.png"
+    },
+    {
+      "name": "JONES, Emily",
+      "address": "5634 Oak Avenue SW",
+      "phone": "403.555-5678",
+      "email": "emily.jones@example.com",
+      "image": "/res/ad.png"
+    },
+    {
+      "name": "BROWN, Linda",
+      "address": "2389 Pine Lane NE",
+      "phone": "403.555-9101",
+      "email": "linda.brown@example.com",
+      "image": "/res/ad.png"
+    },
+    {
+      "name": "DAVIS, William",
+      "address": "1040 Birch Road NW",
+      "phone": "403.555-1122",
+      "email": "william.davis@example.com",
+      "image": "/res/ad.png"
+    },
+    {
+      "name": "MILLER, Sarah",
+      "address": "4215 Cedar Drive SE",
+      "phone": "403.555-3344",
+      "email": "sarah.miller@example.com",
+      "image": "/res/ad.png"
+    },
+    {
+      "name": "WILSON, James",
+      "address": "3901 Elm Street SW",
+      "phone": "403.555-5566",
+      "email": "james.wilson@example.com",
+      "image": "/res/ad.png"
+    },
+    {
+      "name": "MOORE, Barbara",
+      "address": "1502 Fir Avenue NW",
+      "phone": "403.555-7788",
+      "email": "barbara.moore@example.com",
+      "image": "/res/ad.png"
+    },
+    {
+      "name": "TAYLOR, Christopher",
+      "address": "2728 Spruce Court NE",
+      "phone": "403.555-9900",
+      "email": "christopher.taylor@example.com",
+      "image": "/res/ad.png"
+    }
+  ]
+  
