@@ -27,7 +27,7 @@ export default function BlogList() {
                     <h2 className="text-2xl font-bold text-center text-gray-800 mb-3">Your Previous Prayers</h2>
                     <ul className="space-y-4">
                         {blogPostList.map((post) => {
-                            let postUrl = `/prayer/${post.id}`;
+                            let postUrl = `./${post.id}`;
                             return (
                                 <li key={post.id} className="bg-white p-6 rounded-lg shadow-md hover:shadow-lg transition-shadow duration-300">
                                     <div className="flex justify-between items-start">
