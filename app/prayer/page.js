@@ -6,7 +6,7 @@ import Footer from "../main/footer";
 import { useUserAuth } from "../_utils/auth-context";
 import { dbAddBlogPost } from "./_service/blog-service";
 import Link from "next/link";
-import BlogList from "../list/page";
+
 
 
 export default function AddBlogPostPage(){
