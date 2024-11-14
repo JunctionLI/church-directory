@@ -2,7 +2,7 @@
 import Link from "next/link";
 import { useUserAuth } from "./_utils/auth-context";
 import MainPage from "./main/page";
-import Image from "next/image";
+
 
 
 export default function Home() {

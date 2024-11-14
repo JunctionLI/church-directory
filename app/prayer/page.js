@@ -4,7 +4,7 @@ import { useState } from "react";
 import Navigation from "../main/menu";
 import Footer from "../main/footer";
 import { useUserAuth } from "../_utils/auth-context";
-import { dbAddBlogPost } from "./_service/blog-service";
+import { dbAddBlogPost } from "../_service/blog-service";
 import Link from "next/link";
 
 
